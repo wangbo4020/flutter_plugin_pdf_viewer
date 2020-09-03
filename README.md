@@ -1,3 +1,5 @@
+# Please migrate to https://pub.dev/packages/advance_pdf_viewer  
+
 # flutter_plugin_pdf_viewer
 
 A flutter plugin for handling PDF files. Works on both Android & iOS
